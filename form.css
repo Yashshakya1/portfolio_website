@@ -1,0 +1,14 @@
+.class{
+
+    border: 2px solid  red;
+
+    border-radius:100px;
+}
+
+#box{
+
+    width: 200;
+    height: 200;
+    border: 2px solid green;
+
+}
